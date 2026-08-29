@@ -35,7 +35,7 @@ export function PricingView() {
         'Weekly market briefings',
         'SlipMint AI Telegram Bot (Pro)',
         'Premium dashboards & charts',
-        'Pay via Paystack or Crypto'
+        'Pay via Flutterwave or Xpert Token'
       ],
       button: 'Upgrade to Premium',
       buttonVariant: 'bg-gradient-to-r from-amber-500 to-orange-500 text-white hover:shadow-[0_0_15px_rgba(245,158,11,0.3)] transition-all'
@@ -67,7 +67,7 @@ export function PricingView() {
       <div className="text-center max-w-2xl mx-auto mt-6">
         <h1 className="text-3xl font-bold text-slate-100">Unlock the Luckman World Ecosystem</h1>
         <p className="text-slate-400 mt-3 text-lg">
-          Subscribe via Paystack or connect your wallet to use Xpert Token. 
+          Subscribe via Flutterwave or connect your wallet to use Xpert Token. 
           Get unparalleled market intelligence and AI-driven automation.
         </p>
       </div>
